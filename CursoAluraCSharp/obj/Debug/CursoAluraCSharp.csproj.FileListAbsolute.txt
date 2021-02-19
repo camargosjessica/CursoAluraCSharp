@@ -1,0 +1,7 @@
+C:\Users\camar\source\repos\CursoAluraCSharp\CursoAluraCSharp\bin\Debug\CursoAluraCSharp.exe.config
+C:\Users\camar\source\repos\CursoAluraCSharp\CursoAluraCSharp\bin\Debug\CursoAluraCSharp.exe
+C:\Users\camar\source\repos\CursoAluraCSharp\CursoAluraCSharp\bin\Debug\CursoAluraCSharp.pdb
+C:\Users\camar\source\repos\CursoAluraCSharp\CursoAluraCSharp\obj\Debug\CursoAluraCSharp.csprojAssemblyReference.cache
+C:\Users\camar\source\repos\CursoAluraCSharp\CursoAluraCSharp\obj\Debug\CursoAluraCSharp.csproj.CoreCompileInputs.cache
+C:\Users\camar\source\repos\CursoAluraCSharp\CursoAluraCSharp\obj\Debug\CursoAluraCSharp.exe
+C:\Users\camar\source\repos\CursoAluraCSharp\CursoAluraCSharp\obj\Debug\CursoAluraCSharp.pdb
